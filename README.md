@@ -13,7 +13,8 @@
 - Linux
 - Apache
 - MYSQL
-- PHP ❤
+- PHP
+- WordPress / Woocommerce
 - Laravel
 - ReactJS
 - HTML & CSS
