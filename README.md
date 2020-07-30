@@ -4,15 +4,17 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- I'm 24 years old., and I live in Rampur, Uttar Pradesh (India)
-- I study information systems in Faculdade de Juazeiro do Norte.
+- I'm a 24 years old guy from Rampur, Uttar Pradesh (India)
+- I love coding and other tech stuffs.
 - I'm a little too addicted to coffee.
 
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Tech Stack (LAMP)</h3>
 
+- Linux
+- Apache
+- MYSQL
 - PHP ❤
-- Codeignitor
 - Laravel
 - ReactJS
 - HTML & CSS
