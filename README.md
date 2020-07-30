@@ -1,6 +1,6 @@
 # Hello, I am Nazim Ansari 🤩
 ---
-<img align="right" alt="Hello" src="https://i.giphy.com/media/Cmr1OMJ2FN0B2/200w.webp" />
+<img align="right" alt="Hello" src="https://i.giphy.com/media/Cmr1OMJ2FN0B2/giphy.webp" />
 
 <h3> 👨🏻‍💻 About Me </h3>
 
