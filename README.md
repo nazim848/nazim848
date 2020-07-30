@@ -5,9 +5,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - I'm a 24 years old guy from Rampur, Uttar Pradesh (India)
-- I love coding and other tech stuffs.
-- I'm a little too addicted to coffee.
-
+- I love writing codes and other web stuffs.
+- I'm also little addicted to Curd (Dahi).
 
 <h3>🛠 Tech Stack (LAMP)</h3>
 
