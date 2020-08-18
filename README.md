@@ -16,7 +16,7 @@
 - PHP
 - WordPress / Woocommerce
 - Laravel
-- ReactJS
+- VueJS
 - HTML & CSS
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>By the way, I love to meet programming buddies. So you are welcome. 😊</em>
