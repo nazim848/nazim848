@@ -7,7 +7,7 @@
 - I'm a 26 years old guy from Rampur, Uttar Pradesh (India)
 - I'm creating high-end WordPress websites since 2016.
 - I love writing codes and other web stuffs.
-- I'm also little addicted to Curd (Dahi).
+- I curd (Dahi) addicted :)
 
 <h3>🛠 Tech Stack (LAMP)</h3>
 
