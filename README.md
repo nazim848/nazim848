@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - I'm a 26 years old guy from Rampur, Uttar Pradesh (India)
-- I'm creating high-end WordPress websites since 2016.
+- Creating high-end WordPress websites since 2016.
 - I love writing codes and other web stuffs.
 - I curd (Dahi) addicted :)
 
