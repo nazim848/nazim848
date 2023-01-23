@@ -4,18 +4,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- I'm a 26 years old guy from Rampur, Uttar Pradesh (India)
+- Freelance WordPress dveeloper & Indie hacker from Bareilly, Uttar Pradesh (India)
 - Creating high-end WordPress websites since 2016.
-- I love writing codes and other web stuffs.
-- I curd (Dahi) addicted :)
-
-<h3>🛠 Tech Stack (LAMP)</h3>
-
-- Linux
-- Apache
-- MYSQL
-- PHP
-- WordPress
-- HTML & CSS
+- Love writing codes and other web stuffs.
+- Love curd (Dahi) :)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>By the way, I love to meet programming buddies. So you are welcome. 😊</em>
