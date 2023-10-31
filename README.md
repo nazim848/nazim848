@@ -1,4 +1,4 @@
-# Hello, I am Nazim Ansari 🤩
+# Hello, I am Nazim Husain 🤩
 ---
 <img align="right" alt="Hello" src="https://i.giphy.com/media/Cmr1OMJ2FN0B2/giphy.webp" width="300">
 
